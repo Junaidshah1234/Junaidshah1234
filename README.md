@@ -20,11 +20,21 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 - **Client:** US-Based Wedding Business
 - **What I Built:** Developed a highly secure server-side checkout plugin. Features include a bespoke admin dashboard for revenue tracking, live-preview UI styling, and a private token-based GitHub auto-updater.
 - **Results & Links:** [View Project in Upwork Portfolio](https://www.upwork.com/freelancers/~0139f4995660a6a8ea) | **Live Site:** [A Beautiful Ceremony](https://www.abeautifulceremony.net/payments.html)
+  
 
-**2. Custom Cooking Plugin Extension (Coming Soon 🚧)**
-- **Client:** (In Progress)
-- **What I am Building:** Currently developing a custom child plugin/add-on for an existing cooking plugin to meet highly specific client requirements and extend its core functionalities.
-- **Status:** 👨‍💻 Under Development...
+**2. Cooked Child - Custom Recipe Extension 👨‍🍳✅**
+
+**Client:** Cook and Wine ([cookandwine.com.au](https://cookandwine.com.au/))  
+**What I Built:** Developed a custom child plugin for the popular 'Cooked' WordPress recipe plugin to safely extend its core functionalities without modifying the parent files.
+
+**Key Features Implemented:**
+- **"Draft of Changes" System:** A powerful workflow allowing site editors to clone live recipes into drafts, edit them safely, and automatically overwrite the live version upon publishing.
+- **Private GitHub Auto-Updater:** Integrated `PluginUpdateChecker` to allow seamless, one-click plugin updates directly from a private GitHub repository via the WP Admin dashboard.
+- **Enhanced Recipe UI:** Built custom ingredient input fields (Imperial Overrides), dynamic Table of Contents (TOC), and interactive description accordions.
+- **Safe Sanitization:** Custom filters for TinyMCE editors to safely allow dynamic data attributes (like custom recipe timers) without being stripped by WordPress.
+
+**Status:** 🚀 Successfully Delivered and Deployed!
+
 
 ---
 
