@@ -16,13 +16,13 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 ### 🏆 Recent Projects Timeline 
 *(I continuously update this section with my latest work)*
 
-**1. Custom Stripe & PayPal Payment Gateway (Latest 🚀)**
+**1. Custom Stripe & PayPal Payment Gateway**
 - **Client:** US-Based Wedding Business
 - **What I Built:** Developed a highly secure server-side checkout plugin. Features include a bespoke admin dashboard for revenue tracking, live-preview UI styling, and a private token-based GitHub auto-updater.
 - **Results & Links:** [View Project in Upwork Portfolio](https://www.upwork.com/freelancers/~0139f4995660a6a8ea) | **Live Site:** [A Beautiful Ceremony](https://www.abeautifulceremony.net/payments.html)
   
 
-**2. Cooked Child - Custom Recipe Extension 👨‍🍳✅**
+**2. Cooked Child - Custom Recipe Extension 👨‍🍳✅ (Latest 🚀)**
 
 **Client:** Cook and Wine ([cookandwine.com.au](https://cookandwine.com.au/))  
 **What I Built:** Developed a custom child plugin for the popular 'Cooked' WordPress recipe plugin to safely extend its core functionalities without modifying the parent files.
