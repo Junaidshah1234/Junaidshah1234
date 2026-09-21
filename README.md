@@ -38,6 +38,7 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 **3. OmniCalc - Visual Calculator Builder Plugin 🧮✨ (Latest 🚀)**
 
 **Client:** Open Source / Personal Flagship Project
+
 **What I Built:** Developed a professional, zero-bloat visual calculator builder plugin for WordPress featuring a Vanilla JS reactive engine, Shadow DOM rendering, and native Elementor widget integration.
 
 **Key Features Implemented:**
