@@ -22,7 +22,7 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 - **Results & Links:** [View Project in Upwork Portfolio](https://www.upwork.com/freelancers/~0139f4995660a6a8ea) | **Live Site:** [A Beautiful Ceremony](https://www.abeautifulceremony.net/payments.html)
   
 
-**2. Cooked Child - Custom Recipe Extension 👨‍🍳✅ (Latest 🚀)**
+**2. Cooked Child - Custom Recipe Extension 👨‍🍳✅**
 
 **Client:** Cook and Wine ([cookandwine.com.au](https://cookandwine.com.au/))  
 **What I Built:** Developed a custom child plugin for the popular 'Cooked' WordPress recipe plugin to safely extend its core functionalities without modifying the parent files.
@@ -35,6 +35,15 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 
 **Status:** 🚀 Successfully Delivered and Deployed!
 
+**3. OmniCalc - Visual Calculator Builder Plugin 🧮✨ (Latest 🚀)**
+Client: Open Source / Personal Flagship Project
+What I Built: Developed a professional, zero-bloat visual calculator builder plugin for WordPress featuring a Vanilla JS reactive engine, Shadow DOM rendering, and native Elementor widget integration.
+Key Features Implemented:
+- **No-Code Visual Formula Builder:** Allows non-technical users to build complex equations dynamically without typing raw math.
+- **Shadow DOM Isolation:** Completely prevents frontend style clashes with active WordPress themes.
+- **Native Elementor Style Tab:** Built custom Elementor Controls Manager integration with device-specific responsive overrides (Desktop, Tablet, Mobile) for field layouts and typography.
+- **Strict WP.org Security:** Fully hardened against security issues with strict sanitization, safe AST math evaluation, and proper nonces.
+Status: 🚀 Open Source & Available on GitHub! [View Repository](https://github.com/Junaidshah1234/omnicalc)
 
 ---
 
