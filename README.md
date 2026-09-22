@@ -35,7 +35,7 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 
 **Status:** 🚀 Successfully Delivered and Deployed!
 
-**3. OmniCalc - Visual Calculator Builder Plugin 🧮✨ (Latest 🚀)**
+**3. ShahCalc - Visual Calculator Builder Plugin 🧮✨ (Latest 🚀)**
 
 **Client:** Open Source / Personal Flagship Project
 
@@ -47,7 +47,7 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 - **Native Elementor Style Tab:** Built custom Elementor Controls Manager integration with device-specific responsive overrides (Desktop, Tablet, Mobile) for field layouts and typography.
 - **Strict WP.org Security:** Fully hardened against security issues with strict sanitization, safe AST math evaluation, and proper nonces.
   
-**Status:** 🚀 Open Source & Available on GitHub! [View Repository](https://github.com/Junaidshah1234/omnicalc)
+**Status:** 🚀 Open Source & Available on GitHub! [View Repository](https://github.com/Junaidshah1234/shahcalc)
 
 ---
 
