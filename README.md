@@ -20,9 +20,10 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
   **Modern Integration Stack:** 
   * Built native Gutenberg blocks and custom Elementor Controls Manager widget integration with responsive overrides (Desktop, Tablet, Mobile).
   * Pure Vanilla JavaScript and React-powered dynamic interfaces with zero jQuery bloat.
+    
   **Links:** 
   * 🔗 **Official WordPress Plugin Page:** [View on WordPress.org](https://wordpress.org/plugins/shahcalc)
-  * 💻 **Source Code & Documentation:** [GitHub Repository](https://github.com/Junaidshah1234/shahcalc)[cite: 1]
+  * 💻 **Source Code & Documentation:** [GitHub Repository](https://github.com/Junaidshah1234/shahcalc)
 
 ---
 
