@@ -4,6 +4,28 @@
 
 I am a highly skilled WordPress Developer with a **100% Job Success Score** on Upwork. I specialize in building custom WordPress solutions, integrating complex APIs, and providing top-tier webmaster support. Whether it's building a site from scratch, developing a custom plugin, or rescuing a crashed database at 4:00 AM, I deliver solutions that are fast, secure, and reliable.
 
+---
+
+### 🏆 Featured Live Plugins & Projects 
+*(I continuously update this section with my latest work and official WordPress releases)*
+
+**1. ShahCalc – Production-Grade Visual Calculator Builder for WordPress**
+
+**Overview:** Developed a zero-bloat, high-performance visual calculator builder plugin for WordPress, successfully launched on the official WordPress.org plugin directory.
+  
+  **Key Architecture & Security:** 
+  * Engineered a secure, AST-based formula engine (`no eval()` or `new Function()`) for safe math parsing in the browser and server.
+  * Implemented Shadow DOM style isolation to completely prevent theme CSS leaks and style clashes.
+  * Fully validated with zero errors against the official WordPress Plugin Check tool and strict security standards.
+  **Modern Integration Stack:** 
+  * Built native Gutenberg blocks and custom Elementor Controls Manager widget integration with responsive overrides (Desktop, Tablet, Mobile).
+  * Pure Vanilla JavaScript and React-powered dynamic interfaces with zero jQuery bloat.
+  **Links:** 
+  * 🔗 **Official WordPress Plugin Page:** [View on WordPress.org](https://wordpress.org/plugins/shahcalc)
+  * 💻 **Source Code & Documentation:** [GitHub Repository](https://github.com/Junaidshah1234/shahcalc)[cite: 1]
+
+---
+
 ### 💻 What I Do Best
 - ⚡ **Full-Stack WordPress Development:** Complete site builds, WooCommerce setups, and advanced Elementor Pro designs.
 - 🚀 **Performance & Security:** Advanced PageSpeed optimization, malware removal, SSL fixes, and server-level security.
