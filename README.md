@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Junaid Shah
 
-**Full-Stack WordPress Expert | Custom Plugin Developer | API Specialist**
+**Full-Stack WordPress Expert | Custom Plugin Developer | API Specialist | HTML Email Developer**
 
 I am a highly skilled WordPress Developer with a **100% Job Success Score** on Upwork. I specialize in building custom WordPress solutions, integrating complex APIs, and providing top-tier webmaster support. Whether it's building a site from scratch, developing a custom plugin, or rescuing a crashed database at 4:00 AM, I deliver solutions that are fast, secure, and reliable.
 
@@ -33,6 +33,25 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 - 🔌 **Custom Plugin Development:** Building lightweight, scalable plugins tailored to unique business needs.
 - 💳 **Secure API Integrations:** Integrating Stripe, PayPal, and third-party REST APIs with zero PCI liability.
 - 🚑 **Critical Bug Fixes:** Diagnosing 500 Internal Server Errors, White Screens of Death, and MySQL database crashes.
+- 📧 **HTML Email Development:** Hand-coding responsive, cross-client compatible email templates for Gmail, Outlook, Apple Mail, and more.
+
+---
+
+### 📧 HTML Email Templates
+
+I also design and hand-code responsive, cross-client compatible HTML email templates for Gmail, Outlook, Apple Mail, and more.
+
+🔗 **[View Email Templates Portfolio →](https://github.com/Junaidshah1234/email-templates)**
+
+**Email Development Skills:**
+- Hand-coded HTML/CSS (table-based, no drag-drop builders)
+- Responsive design (media queries for mobile devices)
+- Outlook compatibility (VML, conditional comments, MSO fixes)
+- HubSpot / Mailchimp / Klaviyo integration
+- Cross-client testing (Litmus, Email on Acid)
+
+**Featured Template:**
+- **Auxilium Newsletter — September 2026:** A monthly newsletter template for a UAE-based HR consultancy. [View Live →](https://junaidshah1234.github.io/email-templates/auxilium-newsletter/)
 
 ---
 
