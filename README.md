@@ -41,7 +41,7 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 
 I also design and hand-code responsive, cross-client compatible HTML email templates for Gmail, Outlook, Apple Mail, and more.
 
-🔗 **[View Email Templates Portfolio →]🔗(https://junaidshah1234.github.io/email-templates/)****
+🔗 **[View Email Templates Portfolio →](https://junaidshah1234.github.io/email-templates/)**
 
 **Email Development Skills:**
 - Hand-coded HTML/CSS (table-based, no drag-drop builders)
