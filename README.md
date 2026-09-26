@@ -6,10 +6,20 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
 
 ---
 
-### 🏆 Featured Live Plugins & Projects 
-*(I continuously update this section with my latest work and official WordPress releases)*
+### 💻 What I Do Best
+- ⚡ **Full-Stack WordPress Development:** Complete site builds, WooCommerce setups, and advanced Elementor Pro designs.
+- 🚀 **Performance & Security:** Advanced PageSpeed optimization, malware removal, SSL fixes, and server-level security.
+- 🔌 **Custom Plugin Development:** Building lightweight, scalable plugins tailored to unique business needs.
+- 💳 **Secure API Integrations:** Integrating Stripe, PayPal, and third-party REST APIs with zero PCI liability.
+- 🚑 **Critical Bug Fixes:** Diagnosing 500 Internal Server Errors, White Screens of Death, and MySQL database crashes.
+- 📧 **HTML Email Development:** Hand-coding responsive, cross-client compatible email templates for Gmail, Outlook, Apple Mail, and more.
 
-**1. ShahCalc – Production-Grade Visual Calculator Builder for WordPress**
+---
+
+## 🧩 Plugin Development
+*(Custom & published WordPress plugins — latest first)*
+
+**1. ShahCalc – Production-Grade Visual Calculator Builder for WordPress (Latest 🚀)**
 
 **Overview:** Developed a zero-bloat, high-performance visual calculator builder plugin for WordPress, successfully launched on the official WordPress.org plugin directory.
   
@@ -25,44 +35,9 @@ I am a highly skilled WordPress Developer with a **100% Job Success Score** on U
   * 🔗 **Official WordPress Plugin Page:** [View on WordPress.org](https://wordpress.org/plugins/shahcalc)
   * 💻 **Source Code & Documentation:** [GitHub Repository](https://github.com/Junaidshah1234/shahcalc)
 
----
-
-### 💻 What I Do Best
-- ⚡ **Full-Stack WordPress Development:** Complete site builds, WooCommerce setups, and advanced Elementor Pro designs.
-- 🚀 **Performance & Security:** Advanced PageSpeed optimization, malware removal, SSL fixes, and server-level security.
-- 🔌 **Custom Plugin Development:** Building lightweight, scalable plugins tailored to unique business needs.
-- 💳 **Secure API Integrations:** Integrating Stripe, PayPal, and third-party REST APIs with zero PCI liability.
-- 🚑 **Critical Bug Fixes:** Diagnosing 500 Internal Server Errors, White Screens of Death, and MySQL database crashes.
-- 📧 **HTML Email Development:** Hand-coding responsive, cross-client compatible email templates for Gmail, Outlook, Apple Mail, and more.
+**Status:** 🚀 Open Source & Available on GitHub!
 
 ---
-
-### 📧 HTML Email Templates
-
-I also design and hand-code responsive, cross-client compatible HTML email templates for Gmail, Outlook, Apple Mail, and more.
-
-🔗 **[View Email Templates Portfolio →](https://junaidshah1234.github.io/email-templates/)**
-
-**Email Development Skills:**
-- Hand-coded HTML/CSS (table-based, no drag-drop builders)
-- Responsive design (media queries for mobile devices)
-- Outlook compatibility (VML, conditional comments, MSO fixes)
-- HubSpot / Mailchimp / Klaviyo integration
-- Cross-client testing (Litmus, Email on Acid)
-
-**Featured Template:**
-- **Auxilium Newsletter — September 2026:** A monthly newsletter template for a UAE-based HR consultancy. [View Live →](https://junaidshah1234.github.io/email-templates/auxilium-newsletter/)
-
----
-
-### 🏆 Recent Projects Timeline 
-*(I continuously update this section with my latest work)*
-
-**1. Custom Stripe & PayPal Payment Gateway**
-- **Client:** US-Based Wedding Business
-- **What I Built:** Developed a highly secure server-side checkout plugin. Features include a bespoke admin dashboard for revenue tracking, live-preview UI styling, and a private token-based GitHub auto-updater.
-- **Results & Links:** [View Project in Upwork Portfolio](https://www.upwork.com/freelancers/~0139f4995660a6a8ea) | **Live Site:** [A Beautiful Ceremony](https://www.abeautifulceremony.net/payments.html)
-  
 
 **2. Cooked Child - Custom Recipe Extension 👨‍🍳✅**
 
@@ -77,19 +52,52 @@ I also design and hand-code responsive, cross-client compatible HTML email templ
 
 **Status:** 🚀 Successfully Delivered and Deployed!
 
-**3. ShahCalc - Visual Calculator Builder Plugin 🧮✨ (Latest 🚀)**
+---
 
-**Client:** Open Source / Personal Flagship Project
+**3. Custom Stripe & PayPal Payment Gateway**
+- **Client:** US-Based Wedding Business
+- **What I Built:** Developed a highly secure server-side checkout plugin. Features include a bespoke admin dashboard for revenue tracking, live-preview UI styling, and a private token-based GitHub auto-updater.
+- **Results & Links:** [View Project in Upwork Portfolio](https://www.upwork.com/freelancers/~0139f4995660a6a8ea) | **Live Site:** [A Beautiful Ceremony](https://www.abeautifulceremony.net/payments.html)
 
-**What I Built:** Developed a professional, zero-bloat visual calculator builder plugin for WordPress featuring a Vanilla JS reactive engine, Shadow DOM rendering, and native Elementor widget integration.
+---
 
-**Key Features Implemented:**
-- **No-Code Visual Formula Builder:** Allows non-technical users to build complex equations dynamically without typing raw math.
-- **Shadow DOM Isolation:** Completely prevents frontend style clashes with active WordPress themes.
-- **Native Elementor Style Tab:** Built custom Elementor Controls Manager integration with device-specific responsive overrides (Desktop, Tablet, Mobile) for field layouts and typography.
-- **Strict WP.org Security:** Fully hardened against security issues with strict sanitization, safe AST math evaluation, and proper nonces.
-  
-**Status:** 🚀 Open Source & Available on GitHub! [View Repository](https://github.com/Junaidshah1234/shahcalc)
+## 📧 HTML Email Templates
+*(Hand-coded, cross-client email development — latest first)*
+
+I design and hand-code responsive, cross-client compatible HTML email templates for Gmail, Outlook, Apple Mail, and more.
+
+🔗 **[View Full Email Templates Portfolio →](https://junaidshah1234.github.io/email-templates/)**
+
+**Email Development Skills:**
+- Hand-coded HTML/CSS (table-based, no drag-drop builders)
+- Responsive design (media queries for mobile devices)
+- Outlook compatibility (VML, conditional comments, MSO fixes)
+- HubSpot / Mailchimp / Klaviyo integration
+- Cross-client testing (Litmus, Email on Acid)
+
+**1. Auxilium Newsletter — September 2026 (Latest 🚀)**
+- A monthly newsletter template for a UAE-based HR consultancy.
+- [View Live →](https://junaidshah1234.github.io/email-templates/auxilium-newsletter/)
+
+---
+
+## 🚑 Recent Projects — Support, Fixes & Site Work
+*(Client site work, recoveries, and audits — latest first)*
+
+**1. WordPress White Screen of Death — Critical Recovery & Security Audit ✅ (Latest 🚀)**
+
+**Client:** Butrus Said Official (butrus.net) — Arabic business/training website
+
+**What I Did:** Diagnosed and resolved a full site outage (white screen affecting both the front end and wp-admin) on a Managed WordPress (GoDaddy) hosting environment.
+
+**Key Actions & Findings:**
+- **Root Cause Diagnosis:** Isolated the fault to a corrupted **Elementor / Elementor Pro** installation by systematically testing via Safe Mode and selectively disabling plugins — without touching the database or any other site on the shared hosting account.
+- **Zero-Downtime Recovery:** Removed the corrupted plugin files and restored the site to a fully working state without needing a full backup restore.
+- **Security Discovery:** Identified that the crashed Elementor Pro copy was a **nulled (pirated) build** — the actual root cause of the instability, since nulled plugins cannot receive official security updates.
+- **Clean Replacement:** Installed a properly licensed, non-nulled alternative that restored full page-builder functionality without the security risk.
+- **Site-Wide Security Audit:** Flagged additional inactive and nulled plugins across the install for cleanup, recommending a custom-built replacement strategy to eliminate all pirated dependencies going forward.
+
+**Status:** 🚀 Site Restored & Live — Security Hardening Phase Proposed
 
 ---
 
